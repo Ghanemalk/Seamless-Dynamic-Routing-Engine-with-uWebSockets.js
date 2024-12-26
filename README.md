@@ -14,12 +14,12 @@ This project provides a lightweight and efficient dynamic route handler for `uWe
 routes/
   get/
     users/
-      :id/
+      _id/
         delete.js   # Handles GET requests for /users/:id/delete
       get.js        # Handles GET requests for /users
   post/
     users/
-      :id/
+      _id/
         delete.js   # Handles POST requests for /users/:id/delete
     posts/
       create.js     # Handles POST requests for /posts/create
