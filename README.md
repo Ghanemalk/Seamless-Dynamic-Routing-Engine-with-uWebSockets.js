@@ -27,7 +27,7 @@ routes/
 
 ## Example Usage
 1. **GET /users/:id/delete**  
-   This route is handled by `routes/get/users/:id/delete.js`.
+   This route is handled by `routes/get/users/_id/delete.js`.
 
 2. **POST /posts/create**  
    This route is handled by `routes/post/posts/create.js`.
